@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Dash vino"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "019b5116-228b-4660-b344-04086dd7ee08"
+  }
+}
